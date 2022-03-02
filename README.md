@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ana Kellen Nogueira</h1>
 
 
-- 🌱 I’m currently learning **React, Node.Js, Bootstrap**
+- 🌱 I’m currently learning **React, Node.Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akporto?tab=repositories](https://github.com/akporto?tab=repositories)
 
