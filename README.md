@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ana Kellen Nogueira</h1>
-<h3 align="center">A full stack development student from Brazil</h3>
+<h3 align="center">A development student from Brazil</h3>
 
 - 🌱 I’m currently learning **React, Node.Js, Bootstrap**
 
