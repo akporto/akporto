@@ -1,9 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Ana Kellen!</h1>
 <h3 align="center">💻 Back-End Developer | ☁️ Cloud Enthusiast | ☕ Java Lover</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Building+robust+backends+with+Java+%26+Spring+Boot;Exploring+the+cloud+with+AWS;Lover+of+clean+code+and+coffee" alt="Typing SVG" />
-</p>
 
 ---
 
