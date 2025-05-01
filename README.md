@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 I'm a Software Engineering student, diving deep into **Java**, **Spring Boot**, and **microservices**.
+- 🎓 I'm a Computer Science  student, diving deep into **Java**, **Spring Boot**, and **microservices**.
 - 🔭 Currently building APIs that scale, communicate, and live in the cloud ☁️.
 - 🐳 Fan of containers, message queues, and clean architecture.
 - 🌱 Learning never stops — especially when it’s about **Kafka**, **RabbitMQ**, and **AWS**.
@@ -43,9 +43,6 @@
   </a>
   <a href="https://restfulapi.net/" target="_blank">
     <img src="https://img.icons8.com/external-flat-juicy-fish/40/null/external-api-coding-and-development-flat-flat-juicy-fish.png" width="40" height="40" alt="REST API"/>
-  </a>
-  <a href="https://microservices.io/" target="_blank">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-microservices-devops-flaticons-lineal-color-flat-icons.png" width="40" height="40" alt="Microservices"/>
   </a>
 </p>
 
