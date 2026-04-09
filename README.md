@@ -1,60 +1,52 @@
-<h1 align="center">Hey there 👋, I'm Ana Kellen!</h1>
-<h3 align="center">💻 Back-End Developer | ☁️ Cloud Enthusiast | ☕ Java Lover</h3>
-
-
----
-
-### 🚀 About Me
-
-- 🎓 I'm a Computer Science  student, diving deep into **Java**, **Spring Boot**, and **microservices**.
-- 🔭 Currently building APIs that scale, communicate, and live in the cloud ☁️.
-- 🐳 Fan of containers, message queues, and clean architecture.
-- 🌱 Learning never stops — especially when it’s about **Kafka**, **RabbitMQ**, and **AWS**.
-- 💌 Reach me at: **kellennporto@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="40" height="40" alt="Spring Boot"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
-  </a>
-  <a href="https://www.rabbitmq.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ"/>
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40" alt="Kafka"/>
-  </a>
-  <a href="https://restfulapi.net/" target="_blank">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/40/null/external-api-coding-and-development-flat-flat-juicy-fish.png" width="40" height="40" alt="REST API"/>
-  </a>
+<h1 align="center">Ana Kellen</h1>
+<p align="center">
+Software Developer | Backend, Cloud & Data
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### About
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ana-kellen-nogueira-2a584418b" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
-  </a>
-</p>
+Software developer focused on backend, cloud and data, with experience in building scalable systems and data-driven solutions.
+
+Currently working on the development of data pipelines, cloud-native applications and distributed systems, with emphasis on ETL processes and event-driven architectures.
 
 ---
 
+### Experience Highlights
 
+- Development of data pipelines for ingestion, transformation and large-scale data processing  
+- Design of backend services using microservices architecture  
+- Integration between relational and non-relational databases  
+- Infrastructure automation using Terraform  
+- Implementation of CI/CD pipelines for automated deployments  
+- Design of event-driven and asynchronous architectures  
+- Application of Generative AI in data transformation workflows  
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*  
+---
+
+### Tech Stack
+
+**Languages:** Python, Java, SQL, PySpark  
+
+**Backend:** Spring Boot, REST APIs, Microservices  
+
+**Data:** ETL, Data Pipelines, Data Processing  
+
+**Cloud:** AWS (serverless, data and distributed systems)  
+Hands-on experience across multiple services, especially in data and event-driven architectures  
+
+**DevOps:** Terraform, Docker, CI/CD  
+
+**Messaging & Streaming:** Event-driven architecture, asynchronous communication  
+
+**Testing:** Integration Testing, Test Automation  
+
+---
+
+### Contact
+
+- LinkedIn: https://www.linkedin.com/in/ana-kellen-nogueira-porto  
+- Email: kellennporto@gmail.com  
+
+---
